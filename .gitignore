@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-/build
-/lib
-=======
+/build/*
+/lib/*
+/bin/*
 CMakeCache.txt
 CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
->>>>>>> refs/remotes/choose_remote_name/master
-/bin
